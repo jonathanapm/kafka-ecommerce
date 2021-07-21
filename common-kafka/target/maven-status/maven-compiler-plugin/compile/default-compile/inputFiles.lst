@@ -1,0 +1,6 @@
+/home/jonathan/Documents/Projects/eccomerce/common-kafka/src/main/java/br/com/alura/eccomerce/Email.java
+/home/jonathan/Documents/Projects/eccomerce/common-kafka/src/main/java/br/com/alura/eccomerce/KafkaService.java
+/home/jonathan/Documents/Projects/eccomerce/common-kafka/src/main/java/br/com/alura/eccomerce/KafkaDispatcher.java
+/home/jonathan/Documents/Projects/eccomerce/common-kafka/src/main/java/br/com/alura/eccomerce/GsonSerizalizer.java
+/home/jonathan/Documents/Projects/eccomerce/common-kafka/src/main/java/br/com/alura/eccomerce/ConsumerFunction.java
+/home/jonathan/Documents/Projects/eccomerce/common-kafka/src/main/java/br/com/alura/eccomerce/GsonDeserializer.java
